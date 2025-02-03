@@ -1,0 +1,5 @@
+Test Case ID,Description,Steps,Expected Result,Actual Result,Status,Remarks
+TC001,Validate Product Listing,Open product page > verify products,Products display,Products display,Passed,No issues found
+TC002,Test API error handling,Disconnect Api Refresh  page,Show fallback message,Fallback message shown,Passed,handled gracefully
+TC003,Check card functionality,Add item to card verify cart,Cart Updates correctly,Card updates correctly,Passed,Works as expected
+TC004,Test responsiveness layout,Rersize  browser window >check layout,Layout adjusts property,Layout adjusts property,Passed,Responsive verified
